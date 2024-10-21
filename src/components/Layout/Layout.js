@@ -7,7 +7,7 @@ function Layout() {
   return (
     <Router> {/* Wrap your component in Router */}
       <Fragment>
-        {/* <Header /> */}
+        <Header />
         <div>
           <Routers />
         </div>
